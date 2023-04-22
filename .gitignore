@@ -1,0 +1,7 @@
+Task1/.idea Task2/.idea Task3/.idea Task4/.idea Task5/.idea Task6(Decision_Trees)/.idea Task7(Clusterization)/.idea Task8(boosting)/.idea Task9(SemiSupervised)/.idea
+.idea/**
+.idea/
+mnist/
+__pycache__/
+__MACOSX/
+05-SVM/
